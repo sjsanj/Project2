@@ -7,3 +7,4 @@ then
 else
 	echo "the number is not equal to 10"
 fi
+
